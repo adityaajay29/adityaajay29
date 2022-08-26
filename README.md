@@ -22,12 +22,15 @@
           
 </p>
 
+<div>
  <a href="https://github-readme-stats.vercel.app/api?username=adityaajay29&hide=stars,prs,issues,contribs&show_icons=true&theme=radical">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=adityaajay29&hide=stars,prs,issues,contribs&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact&show_icons=true&theme=radical" />
 </a>
+</div>
+
 <!---
 adityaajay29/adityaajay29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
