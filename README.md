@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
           
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaajay29)](https://github.com/adityaajay29/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaajay29&theme=radical)
 
 <!---
 adityaajay29/adityaajay29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
