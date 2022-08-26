@@ -24,7 +24,7 @@
 
 <div>
  <a href="https://github-readme-stats.vercel.app/api?username=adityaajay29&hide=stars,prs,issues,contribs&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaajay29&hide=stars,prs,issues,contribs&show_icons=true&theme=radical" />
+  <img allign="left" src="https://github-readme-stats.vercel.app/api?username=adityaajay29&hide=stars,prs,issues,contribs&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact&show_icons=true&theme=radical" />
