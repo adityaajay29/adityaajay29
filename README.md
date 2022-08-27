@@ -28,6 +28,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact&theme=radical&card_width=750em)
 
+![snake gif](https://github.com/adityaajay29/adityaajay29/blob/output/github-contribution-grid-snake.gif)
+
 <!---
 adityaajay29/adityaajay29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
