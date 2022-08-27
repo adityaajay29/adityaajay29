@@ -1,8 +1,7 @@
-<h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+ <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-<h2> 
- I’m Aditya Ajay 👨🏻‍💻
-</h2>
+  I’m Aditya Ajay 👨🏻‍💻
+ </h1>
 
  <h3>
   👨🏻‍🎓 I am a final year Electronics student at NIT Agartala <br>
