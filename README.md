@@ -30,6 +30,8 @@
 
 <!---Snake game --->
 
+<h2> 👨🏻‍💻 &nbsp;My Contributions</h2>
+
 ![snake gif](https://github.com/adityaajay29/adityaajay29/blob/output/github-contribution-grid-snake.svg)
 
 <!---languages used --->
