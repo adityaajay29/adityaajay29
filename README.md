@@ -28,13 +28,13 @@
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaajay29&show_icons=true&theme=radical)
 --->
 
-<!---languages used --->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact&theme=aura_dark&card_width=800em)
-
 <!---Snake game --->
 
 ![snake gif](https://github.com/adityaajay29/adityaajay29/blob/output/github-contribution-grid-snake.svg)
+
+<!---languages used --->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact&theme=aura_dark&card_width=800em)
 
 
 <!---
