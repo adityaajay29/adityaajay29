@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Aditya Ajay
-- 👀 I’m interested in Software and Web development
-- 🌱 I’m currently learning back-end development using Node.Js
-- 💞️ I’m looking to collaborate on exciting web projects
-- 📫 You can reach me via my email, adityaajay20142662@gmail.com 
+<h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 
+<h2> 
+ I’m Aditya Ajay 👨🏻‍💻 <br>
+</h2>
+ 
+ <h3>
+  I am a final year Electronics student at NIT Agartala <br>
+  I am interested in Software and Web Development <br>
+  I am currently learning backend development using Node + Express <br>
+  Ping me to collab on a new project :  <a href="mailto:adityaajay201426622gmail.com">here</a>
+ </h3>
+ 
  <!---Tools used --->
 
 <h2> 🚀 &nbsp;Tools I have worked on</h2>
