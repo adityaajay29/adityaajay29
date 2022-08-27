@@ -3,6 +3,8 @@
 <h2> 
  I’m Aditya Ajay 👨🏻‍💻 <br>
 </h2>
+
+![Profile views](https://gpvc.arturio.dev/adityaajay29)
  
  <h3>
   👨🏻‍🎓 I am a final year Electronics student at NIT Agartala <br>
