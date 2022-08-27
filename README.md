@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on exciting web projects
 - 📫 You can reach me via my email, adityaajay20142662@gmail.com 
 
+ <!---Tools used --->
+
 <h2> 🚀 &nbsp;Tools I have worked on</h2>
 <p align="left">
 
@@ -26,7 +28,11 @@
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaajay29&show_icons=true&theme=radical)
 --->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact&theme=radical&card_width=800em)
+<!---languages used --->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact&theme=aura_dark&card_width=800em)
+
+<!---Snake game --->
 
 ![snake gif](https://github.com/adityaajay29/adityaajay29/blob/output/github-contribution-grid-snake.svg)
 
