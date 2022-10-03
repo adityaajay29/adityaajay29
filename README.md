@@ -43,7 +43,7 @@
 
 <!---languages used --->
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaajay29&show_icons=true&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaajay29&show_icons=true&theme=radical&card_width=800em)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaajay29&layout=compact&theme=aura_dark&card_width=800em)
 
 <!---
