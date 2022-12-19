@@ -6,7 +6,7 @@
  <h3>
   👨🏻‍🎓 I am a final year Electronics student at NIT Agartala <br>
   🎯 I am interested in Software and Web Development <br>
-  🌱 I am currently learning backend development using Node + Express <br>
+  🌱 I am currently learning frontend development with reactJS <br>
   📬 Ping me to collab on a new project :  <a href="mailto:adityaajay201426622gmail.com">here</a>
  </h3>
  
